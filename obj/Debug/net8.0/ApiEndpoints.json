@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DictionaryAPI.Controllers.DictionaryController",
+    "Method": "Translate",
+    "RelativePath": "api/Dictionary/translate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "word",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
